@@ -1,0 +1,280 @@
+- address: 4
+  bytes:
+  - '0x4D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 1
+  bytes:
+  - '0x1C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 16
+  bytes:
+  - '0x0D'
+  - '0x01'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 2
+  bytes:
+  - '0x2C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 32
+  bytes:
+  - '0x0D'
+  - '0x02'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 3
+  bytes:
+  - '0x3C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 64
+  bytes:
+  - '0x0D'
+  - '0x04'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 4
+  bytes:
+  - '0x4C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 128
+  bytes:
+  - '0x0D'
+  - '0x08'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 5
+  bytes:
+  - '0x5C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 3
+  bytes:
+  - '0x3D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 6
+  bytes:
+  - '0x6C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 5
+  bytes:
+  - '0x5D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 7
+  bytes:
+  - '0x7C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 9
+  bytes:
+  - '0x9D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 8
+  bytes:
+  - '0x8C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 11
+  bytes:
+  - '0xBD'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 9
+  bytes:
+  - '0x9C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 13
+  bytes:
+  - '0xDD'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- address: 10
+  bytes:
+  - '0xAC'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 1
+  bytes:
+  - '0x1D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- bytes:
+  - '0x05'
+  command: LOAD_MEM
+- address: 1
+  bytes:
+  - '0x11'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: SHR
+- address: 6
+  bytes:
+  - '0x6C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 2
+  bytes:
+  - '0x2D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- bytes:
+  - '0x05'
+  command: LOAD_MEM
+- address: 1
+  bytes:
+  - '0x11'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: SHR
+- address: 7
+  bytes:
+  - '0x7C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 3
+  bytes:
+  - '0x3D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- bytes:
+  - '0x05'
+  command: LOAD_MEM
+- address: 1
+  bytes:
+  - '0x11'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: SHR
+- address: 8
+  bytes:
+  - '0x8C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 4
+  bytes:
+  - '0x4D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- bytes:
+  - '0x05'
+  command: LOAD_MEM
+- address: 1
+  bytes:
+  - '0x11'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: SHR
+- address: 9
+  bytes:
+  - '0x9C'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
+- address: 5
+  bytes:
+  - '0x5D'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: LOAD_CONST
+- bytes:
+  - '0x05'
+  command: LOAD_MEM
+- address: 1
+  bytes:
+  - '0x11'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: SHR
+- address: 10
+  bytes:
+  - '0xAC'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  - '0x00'
+  command: STORE_MEM
