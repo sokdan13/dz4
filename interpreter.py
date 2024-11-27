@@ -26,9 +26,7 @@ def execute(binary_file, result_file, memory_range):
             memory[address] = accumulator
             pc += 5
         elif opcode == 0x1:  # SHR
-            print(list(binary_data))
             address = struct.unpack_from('<I', binary_data, pc)[0]>>4
-            print(accumulator,memory[address],accumulator>>memory[address])
             accumulator >>= memory[address]
             pc += 5
         else:
