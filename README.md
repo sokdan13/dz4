@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e3192397-50e1-4c3e-9730-75af39540ac5)# Домашнее задание №4 по конфигурационному управлению
+# Домашнее задание №4 по конфигурационному управлению
 ## Номер варианта: 24
 ## **Формулировка задачи**
 
@@ -198,6 +198,10 @@ LOAD_MEM
 SHR 1
 STORE_MEM 10
 ```
+
+![image](https://github.com/user-attachments/assets/78c3468b-82b1-48c3-801a-ecc4a4dbccea)
+
+
 Результат до сдвига: 
 
 ![image](https://github.com/user-attachments/assets/af14f372-72da-40aa-ad41-8cc974feaf94)
